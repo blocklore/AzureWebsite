@@ -1,0 +1,27 @@
+{
+  "name": "AzureWebsite",
+  "version": "0.0.0",
+  "description": "An azure website",
+  "main": "server.js",
+  "dependencies": {
+    "swig": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blocklore/AzureWebsite.git"
+  },
+  "keywords": [
+    "azure"
+  ],
+  "author": "Simon Kennedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blocklore/AzureWebsite/issues"
+  },
+  "homepage": "https://github.com/blocklore/AzureWebsite"
+}
