@@ -3,4 +3,4 @@ http.createServer(function (req, res) {
     console.log('Got request for ' + req.url);
     res.writeHead(200, {'Content-Type': 'text/html'});
     res.end('<h1>Code was updated!</h1>');
-}).listen(process.env.PORT);
+}).listen(80);
